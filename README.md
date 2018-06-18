@@ -12,7 +12,7 @@
 ---
 ### List of script repositories
 
-* [clipboard_to_plaintext](../../clipboard_to_plaintext/) -- クリップボードのデータをプレーンテキストへ変換
+* [clipboard_to_plaintext](clipboard_to_plaintext) -- クリップボードのデータをプレーンテキストへ変換
 <br><br>
 
 ---
